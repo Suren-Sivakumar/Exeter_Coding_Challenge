@@ -1,0 +1,1001 @@
+English word,French word,Frequency
+abide,respecter,42.0
+about,sur,370.0
+above,au dessus,124.0
+abroad,Ã  l'Ã©tranger,63.0
+absence,absence,55.0
+abuse,abuser de,73.0
+according,selon,34.0
+account,Compte,54.0
+accuse,accuser,49.0
+acquainted,connaissance,41.0
+action,action,231.0
+advantage,avantage,86.0
+advice,Conseil,43.0
+affairs,affaires,66.0
+affection,affection,113.0
+affections,affections,40.0
+afraid,peur,41.0
+after,aprÃ¨s,462.0
+afterwards,ensuite,0.0
+again,encore,1212.0
+alive,vivant,89.0
+almost,presque,139.0
+alone,seul,232.0
+along,le long de,108.0
+already,dÃ©jÃ ,139.0
+although,bien que,37.0
+always,toujours,59.0
+ambition,ambition,46.0
+ancient,ancien,75.0
+angel,ange,126.0
+anger,colÃ¨re,416.0
+another,un autre,370.0
+answer,rÃ©pondre,455.0
+anything,n'importe quoi,100.0
+apparel,vÃªtements,47.0
+appear,apparaÃ®tre,213.0
+appears,apparaÃ®t,0.0
+approach,approche,87.0
+argument,argument,78.0
+ariel,Ariel,0.0
+armour,armure,54.0
+aside,de cÃ´tÃ©,132.0
+asleep,endormi,59.0
+assure,assurer,63.0
+athens,AthÃ¨nes,0.0
+attend,assister,279.0
+attended,assistÃ©,0.0
+authority,autoritÃ©,51.0
+avoid,Ã©viter,48.0
+awake,Ã©veillÃ©,68.0
+awhile,quelque temps,101.0
+banish,bannir,192.0
+barren,DÃ©nudÃ©,40.0
+bassianus,bassianus,0.0
+bastard,Connard,90.0
+battle,bataille,146.0
+beard,barbe,124.0
+bearing,palier,66.0
+bears,ours,105.0
+beast,la bÃªte,129.0
+beaten,battu,48.0
+beauty,beautÃ©,224.0
+because,car,81.0
+become,devenir,184.0
+bedford,Bedford,0.0
+before,avant,629.0
+beggar,mendiant,119.0
+begin,commencer,173.0
+behalf,nom,46.0
+behind,derriÃ¨re,114.0
+behold,voir,154.0
+being,Ã©tant,548.0
+believe,croyez,197.0
+belike,Ãªtre comme,22.0
+below,au dessous de,52.0
+benefit,avantage,47.0
+besides,outre,49.0
+betray,trahir,67.0
+better,mieux,583.0
+between,entre,195.0
+beyond,au-delÃ ,43.0
+birth,naissance,101.0
+bishop,Ã©vÃªque,36.0
+bitter,amer,95.0
+black,noir,172.0
+blame,faire des reproches,93.0
+bless,bÃ©nir,244.0
+blessing,bÃ©nÃ©diction,0.0
+blest,heureux,80.0
+blind,aveugle,102.0
+blood,du sang,933.0
+blows,coups,70.0
+blunt,cru,38.0
+blush,rougir,84.0
+bodies,corps,44.0
+bones,des os,76.0
+borne,supportÃ©,93.0
+bottom,bas,40.0
+bought,achetÃ©,51.0
+bound,liÃ©,219.0
+bounty,prime,41.0
+brain,cerveau,148.0
+brains,cerveaux,0.0
+brave,courageux,205.0
+breast,Sein,116.0
+breath,souffle,350.0
+breed,race,106.0
+brief,bref,100.0
+bright,brillant,80.0
+bring,apporter,447.0
+broke,cassÃ©,234.0
+brook,ruisseau,50.0
+brother,frÃ¨re,682.0
+brought,apportÃ©,186.0
+brows,sourcils,49.0
+burden,fardeau,59.0
+buried,enterrÃ©,56.0
+burning,brÃ»lant,51.0
+business,Entreprise,235.0
+cannot,ne peux pas,718.0
+capitol,Capitole,0.0
+captain,capitaine,77.0
+cardinal,cardinal,12.0
+cares,se soucie,36.0
+carry,porter,104.0
+castle,ChÃ¢teau,61.0
+catch,capture,90.0
+cause,cause,464.0
+cease,cesser,63.0
+certain,certain,221.0
+chain,chaÃ®ne,80.0
+chair,chaise,46.0
+challenge,dÃ©fi,55.0
+chamber,chambre,147.0
+chance,chance,199.0
+change,changement,236.0
+charge,charge,264.0
+charity,charitÃ©,54.0
+chaste,chaste,44.0
+cheek,joue,152.0
+cheer,acclamation,121.0
+chide,gronder,55.0
+chief,chef,143.0
+child,enfant,373.0
+choice,choix,72.0
+church,Ã©glise,88.0
+cinna,cinna,0.0
+citizen,citoyenne,62.0
+civil,civil,66.0
+claim,prÃ©tendre,186.0
+clarence,clartÃ©,0.0
+claud,claud,0.0
+claudio,Claudio,0.0
+clear,clair,84.0
+clifford,Clifford,0.0
+close,proche,159.0
+cloten,cailloter,0.0
+clothes,vÃªtements,41.0
+clouds,des nuages,57.0
+clown,pitre,19.0
+college,UniversitÃ©,4.0
+colour,Couleur,161.0
+comes,vient,623.0
+comfort,confort,240.0
+coming,venir,159.0
+cominius,cominius,0.0
+command,commander,268.0
+commanded,commandÃ©,0.0
+commend,saluer,119.0
+commercial,commercial,0.0
+commission,commission,52.0
+commit,commettre,72.0
+common,commun,228.0
+companion,un compagnon,53.0
+company,entreprise,212.0
+complete,AchevÃ©e,20.0
+complexion,complexion,47.0
+condition,Ã©tat,84.0
+conduct,conduite,51.0
+confess,avouer,170.0
+conscience,conscience,124.0
+consent,consentement,104.0
+consider,considÃ©rer,74.0
+constable,gendarme,19.0
+constant,constant,69.0
+contempt,mÃ©pris,50.0
+content,contenu,252.0
+contrary,contraire,47.0
+copies,copies,4.0
+copyright,droits d'auteur,7.0
+could,pourrait,583.0
+council,conseil,30.0
+counsel,Conseil,172.0
+count,compter,582.0
+counterfeit,contrefaire,0.0
+countess,comtesse,0.0
+country,pays,0.0
+courage,courage,279.0
+course,cours,252.0
+court,tribunal,437.0
+courtesy,courtoisie,0.0
+cousin,cousin,247.0
+coward,lÃ¢che,144.0
+crave,demander,70.0
+creature,crÃ©ature,107.0
+credit,crÃ©dit,72.0
+cromwell,Cromwell,0.0
+cross,traverser,122.0
+crown,couronne,384.0
+cruel,cruel,99.0
+cunning,ruse,78.0
+cupid,Cupidon,0.0
+curse,malÃ©diction,175.0
+custom,Douane,70.0
+dagger,dague,57.0
+damned,damnÃ©,43.0
+dance,Danse,101.0
+danger,danger,0.0
+darkness,obscuritÃ©,37.0
+daughter,fille,481.0
+deadly,mortel,50.0
+dearest,trÃ¨s cher,56.0
+dearly,chÃ¨rement,41.0
+death,dÃ©cÃ¨s,876.0
+deeds,actes,119.0
+defend,dÃ©fendre,84.0
+degree,diplÃ´me,62.0
+delight,dÃ©lice,83.0
+deliver,livrer,176.0
+demand,demande,151.0
+denied,refusÃ©,52.0
+depart,partir,94.0
+desert,dÃ©sert,65.0
+deserve,mÃ©riter,121.0
+desire,le dÃ©sir,290.0
+despair,dÃ©sespoir,52.0
+desperate,dÃ©sespÃ©rÃ©,54.0
+despite,malgrÃ©,49.0
+device,dispositif,49.0
+devil,diable,286.0
+devise,concevoir,53.0
+didst,didst,145.0
+dinner,dÃ®ner,95.0
+discourse,discours,0.0
+discover,dÃ©couvrir,72.0
+disgrace,disgrÃ¢ce,55.0
+dishonour,dÃ©shonorer,66.0
+dispatch,envoi,76.0
+displeasure,mÃ©contentement,43.0
+disposition,disposition,51.0
+distributed,distribuÃ©,2.0
+divine,Divin,56.0
+doctor,docteur,40.0
+doing,Faire,78.0
+dolabella,Dolabella,0.0
+doors,des portes,61.0
+double,double,121.0
+doubt,doute,239.0
+download,TÃ©lÃ©charger,0.0
+dramatis,dramatis,0.0
+drawn,tirÃ©,86.0
+dread,crainte,117.0
+dreadful,horrible,0.0
+dream,rÃªver,201.0
+dreams,rÃªves,0.0
+drink,boisson,201.0
+drops,gouttes,56.0
+drown,noyer,103.0
+drums,tambours,37.0
+drunk,ivre,111.0
+duncan,Duncan,0.0
+durst,durst,45.0
+dwell,habiter,71.0
+dying,en train de mourir,51.0
+early,de bonne heure,58.0
+earth,Terre,375.0
+edmund,Edmund,0.0
+effect,effet,112.0
+egypt,Egypte,0.0
+either,Soit,300.0
+elbow,coude,22.0
+elder,aÃ®nÃ©,50.0
+embrace,embrasse,77.0
+emilia,Ã‰milie,3.0
+emperor,empereur,17.0
+empty,vide,51.0
+encounter,rencontre,0.0
+endure,supporter,78.0
+enemies,ennemis,111.0
+enemy,ennemi,167.0
+enjoy,prendre plaisir,64.0
+enobarbus,Ã©nobarbus,0.0
+enough,assez,291.0
+enter,entrer,586.0
+entertain,divertir,0.0
+entertainment,divertissement,0.0
+entreat,supplier,153.0
+equal,Ã©gal,66.0
+estate,biens,58.0
+eternal,Ã©ternel,38.0
+every,chaque,519.0
+everything,tout,0.0
+excellent,excellent,104.0
+except,sauf,41.0
+excuse,excuse,79.0
+execution,exÃ©cution,62.0
+exeter,Exeter,0.0
+exeunt,sortir,7.0
+express,Express,65.0
+faces,visages,53.0
+faint,perdre connaissance,70.0
+fairy,FÃ©e,41.0
+faith,Foi,373.0
+falls,des chutes,68.0
+false,faux,337.0
+familiar,familier,44.0
+fancy,fantaisie,67.0
+farewell,adieu,163.0
+farther,plus loin,42.0
+fashion,mode,123.0
+fatal,fatal,43.0
+father,pÃ¨re,1112.0
+fault,faute,279.0
+favour,favoriser,201.0
+fearful,craintif,99.0
+fears,peurs,74.0
+feast,le banquet,127.0
+feeble,faible,27.0
+fellow,compagnon,420.0
+fenton,Fenton,0.0
+ferdinand,Ferdinand,0.0
+fetch,chercher,107.0
+field,champ,235.0
+fiend,dÃ©mon,78.0
+fierce,fÃ©roce,41.0
+fiery,ardent,47.0
+fight,bats toi,310.0
+figure,figure,65.0
+finds,trouve,38.0
+finger,doigt,112.0
+first,premiÃ¨re,471.0
+flatter,flatter,131.0
+flesh,la chair,141.0
+flies,mouches,60.0
+flight,vol,55.0
+flood,inonder,59.0
+flourish,fleurir,51.0
+flower,fleur,100.0
+flowers,fleurs,0.0
+follow,suivre,491.0
+folly,folie,79.0
+foolish,insensÃ©,101.0
+fools,imbÃ©ciles,100.0
+forbear,ancÃªtre,50.0
+forbid,interdire,79.0
+force,Obliger,270.0
+forces,les forces,0.0
+forest,forÃªt,78.0
+forget,oublier,106.0
+former,ancien,74.0
+forsooth,en vÃ©ritÃ©,42.0
+forth,en avant,431.0
+fortune,fortune,386.0
+forward,vers l'avant,100.0
+fought,combattu,67.0
+found,a trouvÃ©,309.0
+fourth,QuatriÃ¨me,11.0
+frame,Cadre,54.0
+france,France,0.0
+freely,librement,52.0
+french,franÃ§ais,0.0
+fresh,Frais,118.0
+friend,ami,991.0
+frown,froncer les sourcils,86.0
+fruit,fruit,70.0
+further,plus loin,187.0
+gallant,galant,70.0
+garden,jardin,53.0
+gates,portes,105.0
+gaunt,dÃ©charnÃ©,12.0
+general,gÃ©nÃ©ral,205.0
+gentle,doux,898.0
+ghost,fantÃ´me,49.0
+given,donnÃ©,197.0
+giving,donnant,39.0
+glass,verre,82.0
+glorious,glorieux,43.0
+glory,gloire,87.0
+going,Aller,104.0
+golden,d'or,87.0
+goodness,la bontÃ©,55.0
+gower,gower,0.0
+grace,la grÃ¢ce,329.0
+grant,subvention,139.0
+grave,la tombe,234.0
+great,gÃ©nial,1050.0
+green,vert,93.0
+greet,saluer,91.0
+grief,douleur,268.0
+grieve,pleurer,70.0
+gross,brut,94.0
+ground,sol,181.0
+grown,grandi,66.0
+guard,garde,165.0
+guess,devine,52.0
+guilty,coupable,69.0
+habit,habitude,157.0
+hands,mains,342.0
+hanging,pendaison,57.0
+hangs,bloque,34.0
+happiness,bonheur,57.0
+happy,heureux,225.0
+haste,hÃ¢te,209.0
+hateful,odieux,39.0
+having,ayant,124.0
+hazard,danger,45.0
+heads,tÃªtes,130.0
+health,santÃ©,107.0
+heard,entendu,354.0
+heart,cÅ“ur,1333.0
+heaven,paradis,759.0
+heavy,lourd,167.0
+hector,Hector,0.0
+heels,talons,83.0
+hence,Par consÃ©quent,510.0
+henceforth,dÃ©sormais,0.0
+hereafter,"ci-aprÃ¨s, par la suite",0.0
+herself,se,91.0
+highness,altesse,1.0
+holds,tient,83.0
+hollow,creux,53.0
+honest,honnÃªte,391.0
+horse,cheval,331.0
+hostess,hÃ´tesse,29.0
+hours,heures,139.0
+house,maison,640.0
+hubert,Hubert,0.0
+humble,humble,92.0
+humour,humour,124.0
+hundred,cent,116.0
+husband,mari,367.0
+ignorant,ignorant,48.0
+image,image,73.0
+includes,comprend,2.0
+indeed,En effet,358.0
+infinite,infini,43.0
+innocent,innocent,54.0
+instant,instant,84.0
+intend,avoir l'intention,87.0
+intent,intention,160.0
+issue,problÃ¨me,128.0
+itself,lui-mÃªme,236.0
+jealous,jaloux,95.0
+jewel,bijou,87.0
+judge,juge,111.0
+judgment,jugement,115.0
+julia,Julia,1.0
+justice,Justice,164.0
+keeps,garde,69.0
+kindness,la gentillesse,78.0
+kingdom,Royaume,124.0
+kings,rois,137.0
+knave,fripon,237.0
+kneel,s'agenouiller,78.0
+knees,les genoux,51.0
+knife,couteau,56.0
+knight,Chevalier,170.0
+knock,frappe,99.0
+knowing,connaissance,38.0
+knowledge,connaissance,97.0
+known,connu,230.0
+knows,sait,205.0
+labour,la main d'oeuvre,123.0
+ladies,Dames,107.0
+ladyship,Madame,44.0
+lands,terres,67.0
+large,grand,101.0
+laugh,rire,239.0
+launce,lancer,0.0
+lawful,lÃ©gitime,76.0
+learn,apprendre,212.0
+learned,appris,0.0
+least,moins,101.0
+leave,laisser,700.0
+leisure,loisir,68.0
+leontes,leontes,0.0
+letter,lettre,377.0
+liberty,libertÃ©,71.0
+library,bibliothÃ¨que,3.0
+liege,Liege,144.0
+lieutenant,lieutenant,35.0
+light,lumiÃ¨re,455.0
+limbs,membres,49.0
+little,peu,477.0
+lives,vies,196.0
+living,vivant,122.0
+longer,plus long,106.0
+looks,regards,204.0
+loose,ample,60.0
+lords,seigneurs,457.0
+lordship,seigneurie,0.0
+lorenzo,Lorenzo,0.0
+lovely,charmant,53.0
+lovers,les amoureux,55.0
+loves,aime,221.0
+loving,aimant,121.0
+lucentio,Lucentio,0.0
+machine,machine,3.0
+madness,la dÃ©mence,67.0
+maiden,jeune fille,76.0
+maids,servantes,46.0
+maintain,maintenir,52.0
+majesty,majestÃ©,69.0
+makes,fait du,315.0
+making,fabrication,57.0
+malice,malice,70.0
+manner,maniÃ¨re,175.0
+march,Mars,113.0
+marcius,Marcius,0.0
+marcus,Marcus,0.0
+margaret,margaret,0.0
+maria,maria,0.0
+mariana,Mariana,0.0
+marriage,mariage,120.0
+marry,marier,192.0
+master,MaÃ®tre,628.0
+match,rencontre,116.0
+matter,matiÃ¨re,381.0
+meaning,sens,59.0
+means,veux dire,261.0
+meant,signifiait,65.0
+measure,mesure,99.0
+meeting,rÃ©union,53.0
+membership,adhÃ©sion,0.0
+memory,MÃ©moire,58.0
+merchant,marchande,41.0
+mercy,pitiÃ©,176.0
+merit,mÃ©rite,79.0
+merry,joyeux,165.0
+messenger,Messager,76.0
+midnight,minuit,41.0
+might,pourrait,628.0
+mighty,puissant,0.0
+milan,Milan,0.0
+minds,esprits,55.0
+minister,ministre,62.0
+miranda,Miranda,0.0
+mirth,gaietÃ©,52.0
+mischief,sottises,0.0
+misery,misÃ¨re,37.0
+mistake,erreur,47.0
+mistress,maÃ®tresse,270.0
+modest,modeste,97.0
+money,argent,186.0
+monster,monstre,89.0
+month,mois,97.0
+morning,Matin,132.0
+morrow,demain,353.0
+mortal,mortel,144.0
+mother,mÃ¨re,441.0
+motion,mouvement,112.0
+mouth,bouche,200.0
+mowbray,mowbray,0.0
+murder,meurtre,117.0
+murther,aller plus loin,67.0
+music,la musique,197.0
+myself,moi mÃªme,512.0
+naked,nu,54.0
+names,des noms,50.0
+native,originaire de,45.0
+natural,Naturel,104.0
+nature,la nature,358.0
+needs,Besoins,142.0
+neighbour,voisine,83.0
+neither,ni,0.0
+never,jamais,910.0
+niece,niÃ¨ce,62.0
+night,nuit,992.0
+noble,noble,693.0
+noise,bruit,114.0
+nothing,rien,545.0
+nought,nÃ©ant,54.0
+number,nombre,100.0
+nurse,infirmiÃ¨re,82.0
+oaths,serments,86.0
+obedience,obÃ©issance,56.0
+oberon,Oberon,0.0
+object,objet,54.0
+occasion,occasion,89.0
+offence,infraction,119.0
+offend,offenser,144.0
+offer,offre,166.0
+office,Bureau,244.0
+often,souvent,136.0
+oliver,oliver,0.0
+opinion,opinion,94.0
+order,ordre,141.0
+orlando,orlando,0.0
+other,autre,1073.0
+others,autres,0.0
+ourselves,nous-mÃªmes,181.0
+outward,vers l'extÃ©rieur,57.0
+oxford,Oxford,0.0
+padua,Padoue,0.0
+pains,des douleurs,92.0
+painted,peint,52.0
+painter,peintre,10.0
+palace,palais,158.0
+pandarus,Pandarus,0.0
+paper,papier,121.0
+pardon,pardon,259.0
+paris,Paris,32.0
+parolles,parolles,0.0
+parted,sÃ©parÃ©,46.0
+particular,particulier,69.0
+partly,partiellement,33.0
+parts,les piÃ¨ces,108.0
+party,fÃªte,51.0
+passage,passage,44.0
+passion,la passion,145.0
+patience,la patience,178.0
+patient,patient,127.0
+paulina,paulina,0.0
+peace,paix,412.0
+pedro,pedro,0.0
+people,gens,224.0
+perceive,apercevoir,102.0
+percy,Percy,0.0
+perfect,parfait,114.0
+perhaps,peut-Ãªtre,32.0
+peril,pÃ©ril,65.0
+permission,autorisation,4.0
+person,la personne,191.0
+personal,personnel,0.0
+phebe,phebe,0.0
+philip,Philippe,0.0
+picture,image,51.0
+piece,piÃ¨ce,141.0
+pistol,pistolet,5.0
+place,endroit,516.0
+plague,peste,103.0
+plain,plaine,228.0
+plead,plaider,52.0
+please,S'il vous plaÃ®t,381.0
+pleasure,plaisir,214.0
+pluck,cueillir,136.0
+poins,poins,0.0
+point,point,244.0
+poison,poison,119.0
+policy,politique,45.0
+polixenes,polixÃ¨nes,0.0
+pompey,pompey,0.0
+porter,porter,653.0
+possible,possible,97.0
+posthumus,posthume,0.0
+pound,livre,112.0
+power,Puissance,375.0
+practice,entraine toi,56.0
+praise,louange,232.0
+prayers,priÃ¨res,85.0
+precious,prÃ©cieux,77.0
+prepare,prÃ©parer,63.0
+presence,prÃ©sence,104.0
+present,prÃ©sent,410.0
+pretty,jolie,109.0
+pride,fiertÃ©,107.0
+priest,prÃªtre,78.0
+prince,prince,285.0
+prison,prison,256.0
+private,privÃ©,74.0
+prize,prix,53.0
+proceed,procÃ©der,105.0
+proclaim,proclamer,0.0
+profit,profit,63.0
+prohibited,interdit,0.0
+project,projet,15.0
+prologue,prologue,22.0
+promise,promettre,154.0
+proof,preuve,116.0
+proper,correct,95.0
+protector,protecteur,5.0
+protest,manifestation,66.0
+proud,fier,229.0
+prove,prouver,351.0
+provided,Ã  condition de,33.0
+public,Publique,67.0
+purpose,objectif,256.0
+purse,bourse,106.0
+quality,qualitÃ©,56.0
+quarrel,querelle,122.0
+queen,reine,199.0
+question,question,169.0
+quick,rapide,210.0
+quiet,silencieux,106.0
+quite,assez,103.0
+quoth,quoth,62.0
+raise,Ã©lever,73.0
+ransom,une ranÃ§on,64.0
+rascal,coquin,88.0
+rather,plutÃ´t,291.0
+readable,lisible,2.0
+ready,prÃªt,137.0
+realm,domaine,60.0
+reason,raison,489.0
+receive,recevoir,124.0
+regard,qui concerne,263.0
+reign,rÃ¨gne,273.0
+reignier,rÃ¨gne,0.0
+remain,rester,112.0
+remedy,remÃ¨de,59.0
+remember,rappelles toi,159.0
+render,rendre,55.0
+repair,rÃ©paration,42.0
+repent,se repentir,68.0
+report,rapport,179.0
+reputation,rÃ©putation,45.0
+request,demande,85.0
+respect,le respect,182.0
+return,revenir,252.0
+revenge,vengeance,163.0
+reverence,rÃ©vÃ©rence,44.0
+revolt,rÃ©volte,61.0
+right,droite,540.0
+rivers,riviÃ¨res,12.0
+rogue,coquin,104.0
+rotten,pourri,38.0
+rough,rugueux,441.0
+round,rond,97.0
+royal,Royal,246.0
+sacred,sacrÃ©,46.0
+safety,sÃ©curitÃ©,74.0
+saint,Saint,43.0
+salerio,salerio,0.0
+satisfied,satisfait,54.0
+saying,en disant,57.0
+scarce,rare,83.0
+scene,scÃ¨ne,42.0
+scorn,mÃ©pris,139.0
+search,chercher,53.0
+season,saison,67.0
+second,seconde,113.0
+secret,secret,107.0
+seeing,voyant,45.0
+senate,sÃ©nat,0.0
+senator,sÃ©nateur,34.0
+sense,sens,182.0
+sentence,phrase,45.0
+servant,serviteur,253.0
+serve,servir,336.0
+service,un service,262.0
+seven,Sept,82.0
+several,nombreuses,105.0
+shadow,ombre,104.0
+shake,secouer,111.0
+shall,doit,3179.0
+shame,la honte,352.0
+shape,forme,129.0
+sharp,tranchant,85.0
+shepherd,berger,81.0
+shine,Ã©clat,99.0
+shore,rive,77.0
+short,court,164.0
+shortly,prochainement,0.0
+should,devrait,1563.0
+shows,montre,95.0
+sickness,maladie,53.0
+sight,vue,238.0
+silence,silence,63.0
+silver,argent,68.0
+simple,Facile,84.0
+since,depuis,299.0
+single,CÃ©libataire,63.0
+sirrah,sirrah,77.0
+sister,sÅ“ur,502.0
+skill,compÃ©tence,61.0
+slain,tuÃ©,125.0
+slander,calomnie,86.0
+slave,esclave,170.0
+sleep,sommeil,342.0
+slender,mince,12.0
+small,petit,107.0
+smell,odeur,66.0
+smile,sourire,116.0
+soldier,soldat,317.0
+solemn,solennel,66.0
+somerset,somerset,0.0
+something,quelque chose,152.0
+sometime,parfois,107.0
+sooner,plus tÃ´t,60.0
+soothsayer,devin,3.0
+sorrow,chagrin,236.0
+sorry,Pardon,88.0
+sought,recherchÃ©,38.0
+souls,Ã¢mes,110.0
+sound,du son,282.0
+sovereign,souverain,0.0
+spare,de rechange,55.0
+speak,parler,1201.0
+speaks,parle,0.0
+special,spÃ©cial,64.0
+speech,discours,162.0
+speed,la vitesse,158.0
+spend,dÃ©penser,77.0
+spirit,esprit,387.0
+spite,dÃ©pit,82.0
+spoke,parlait,207.0
+sport,sport,178.0
+spring,printemps,84.0
+staff,Personnel,143.0
+stain,tache,110.0
+stand,supporter,798.0
+stars,Ã©toiles,68.0
+state,Etat,342.0
+steal,voler,118.0
+steel,acier,77.0
+steward,intendant,25.0
+still,encore,523.0
+stomach,estomac,61.0
+stone,calcul,145.0
+stood,se tenait,96.0
+store,boutique,72.0
+storm,orage,73.0
+story,rÃ©cit,92.0
+straight,tout droit,153.0
+strange,Ã©trange,283.0
+street,rue,129.0
+strength,force,138.0
+strike,la grÃ¨ve,147.0
+stroke,accident vasculaire cÃ©rÃ©bral,64.0
+strong,fort,272.0
+struck,frappÃ©,81.0
+study,Ã©tude,60.0
+stuff,des trucs,67.0
+subject,matiÃ¨re,169.0
+substance,substance,43.0
+success,SuccÃ¨s,81.0
+sudden,soudain,126.0
+suddenly,tout Ã  coup,0.0
+suffer,souffrir,157.0
+suffolk,suffolk,0.0
+summer,Ã©tÃ©,99.0
+supper,souper,63.0
+surely,sÃ»rement,35.0
+surrey,Surrey,0.0
+suspect,suspect,49.0
+swear,jurer,328.0
+sweat,transpiration,50.0
+sweet,sucrÃ©,775.0
+swift,rapide,94.0
+sword,Ã©pÃ©e,421.0
+swore,jurÃ©,59.0
+sworn,jurÃ©,196.0
+syracuse,Syracuse,0.0
+table,table,226.0
+tailor,tailleur,42.0
+taken,pris,91.0
+talbot,talbot,0.0
+tarry,goudronneux,40.0
+taste,goÃ»t,93.0
+taught,enseignÃ©,53.0
+teach,enseigner,120.0
+tears,larmes,274.0
+tedious,fastidieux,50.0
+teeth,les dents,56.0
+tells,raconte,43.0
+tempest,tempÃªte,48.0
+tender,soumissionner,174.0
+terms,termes,74.0
+thank,remercier,451.0
+their,leur,1964.0
+themselves,se,158.0
+there,LÃ ,2053.0
+therefore,par consÃ©quent,0.0
+therein,la bride,0.0
+these,celles-ci,1101.0
+thief,voleur,68.0
+thing,chose,866.0
+think,pense,1270.0
+third,troisiÃ¨me,76.0
+thomas,Thomas,0.0
+those,ceux,467.0
+though,bien que,1111.0
+thought,pensÃ©e,0.0
+thrive,prospÃ©rer,60.0
+throat,gorge,78.0
+throne,trÃ´ne,75.0
+through,par,0.0
+throw,jeter,183.0
+thrust,poussÃ©e,58.0
+thunder,tonnerre,74.0
+times,fois,254.0
+title,Titre,120.0
+together,ensemble,265.0
+tongue,langue,492.0
+tonight,ce soir,0.0
+touch,toucher,204.0
+toward,vers,156.0
+tower,la tour,18.0
+train,train,304.0
+traitor,traitre,197.0
+tread,bande de roulement,55.0
+treason,trahison,0.0
+treasure,TrÃ©sor,58.0
+trial,procÃ¨s,65.0
+tribunes,tribunes,27.0
+trick,tour,94.0
+triumph,triomphe,75.0
+trouble,difficultÃ©,125.0
+truly,vraiment,124.0
+trumpet,trompette,178.0
+trust,confiance,224.0
+truth,vÃ©ritÃ©,344.0
+turns,se tourne,51.0
+twice,deux fois,62.0
+tyrant,tyran,67.0
+ulysses,Ulysse,0.0
+uncle,oncle,234.0
+under,sous,504.0
+understand,comprendre,0.0
+undertake,entreprendre,0.0
+undone,dÃ©fait,52.0
+unhappy,malheureux,0.0
+unknown,inconnue,0.0
+unless,sauf si,66.0
+until,jusqu'Ã ,43.0
+unworthy,indigne,31.0
+utter,prononcer,117.0
+valentine,Valentin,0.0
+valiant,vaillant,154.0
+valour,valeur,99.0
+vantage,avantage,180.0
+vengeance,vengeance,212.0
+venice,venise,0.0
+version,version,8.0
+victory,la victoire,46.0
+villain,scÃ©lÃ©rat,327.0
+viola,alto,16.0
+violent,violent,47.0
+virtue,vertu,228.0
+visit,visite,92.0
+voice,voix,212.0
+walls,des murs,84.0
+warlike,guerrier,57.0
+warrant,mandat,189.0
+waste,dÃ©chets,73.0
+watch,regarder,175.0
+water,eau,195.0
+wealth,richesse,113.0
+weapons,armes,40.0
+weary,se lasser,82.0
+weeds,mauvaises herbes,42.0
+weeping,larmes,58.0
+weight,poids,63.0
+welcome,Bienvenue,279.0
+wench,jeune fille,84.0
+whence,d'oÃ¹,0.0
+where,oÃ¹,1005.0
+wherein,oÃ¹,0.0
+whether,qu'il s'agisse,56.0
+which,lequel,1418.0
+while,tandis que,215.0
+whither,oÃ¹,39.0
+whole,entier,160.0
+whore,putain,101.0
+whose,dont,383.0
+widow,veuve,89.0
+willing,prÃªt,89.0
+window,la fenÃªtre,67.0
+wings,ailes,55.0
+winter,hiver,78.0
+wisdom,sagesse,100.0
+witch,sorciÃ¨re,79.0
+withal,avec,147.0
+within,dans,340.0
+without,sans pour autant,287.0
+witness,tÃ©moin,121.0
+wives,Ã©pouses,61.0
+wolsey,Wolsey,0.0
+woman,femme,493.0
+wonder,merveille,160.0
+works,travaux,24.0
+world,monde,698.0
+worse,pire,168.0
+worship,culte,132.0
+worth,vaut,510.0
+would,aurait,2163.0
+wound,blessure,201.0
+wounded,blessÃ©s,0.0
+wrath,colÃ¨re,71.0
+wretch,misÃ©rable,147.0
+write,Ã©crire,138.0
+written,Ã©crit,34.0
+wrong,faux,375.0
+wrought,forgÃ©,0.0
+yield,rendement,180.0
+yonder,lÃ -bas,59.0
+young,Jeune,462.0
+yours,le tiens,516.0
+yourself,toi mÃªme,0.0
+youth,jeunesse,310.0
